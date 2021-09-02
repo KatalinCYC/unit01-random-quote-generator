@@ -115,6 +115,8 @@ h1 {
   font-style: normal;
 }
 
+
+/*I added the tag class, so that the tags would have their own distinct look*/
 .tag {
   font-style: oblique;
   color: #aaaaaa;
